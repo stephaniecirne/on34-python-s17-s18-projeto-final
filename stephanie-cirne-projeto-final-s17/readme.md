@@ -48,4 +48,4 @@ Utilizaremos a biblioteca Pandas para tratar os dados e o Tableau para DataViz.
 
 # Desafio pessoal
 
-Elaborar calculo com datas e utilizar o Tableau
+Elaborar calculo com datas e utilizar o Tableau.
