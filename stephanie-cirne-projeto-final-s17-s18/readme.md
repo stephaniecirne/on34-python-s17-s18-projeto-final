@@ -49,3 +49,11 @@ Utilizaremos a biblioteca Pandas para tratar os dados e o Tableau para DataViz.
 # Desafio pessoal
 
 Elaborar calculo com datas e utilizar o Tableau.
+
+# Dashboard
+
+[Confira o dashboard](https://public.tableau.com/views/TrabalhofinalAnlisededadoscomPython-ReprogramaOn34/DASHFINALCORESII?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# Apresentação
+
+[Veja a apresentação] (https://docs.google.com/presentation/d/1U81b_Fz_SegoVWk9MV9_E2WSBAJWjZF-z2BF-oWVC3w/edit#slide=id.g30a7e05960c_0_20)
