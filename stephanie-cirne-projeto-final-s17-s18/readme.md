@@ -7,7 +7,7 @@ Esse projeto faz parte da primeira etapa da conclusão do curso Análise de dado
 
 # Sobre o projeto 📖
 
-Segundo o IBGE (Censo 2022),  54,4% da população soteropolitana é composta de mulheres. A cidade também concentra a menor proporção de pessoas brancas no Brasil, [pretos e pardos ](https://g1.globo.com/ba/bahia/noticia/2023/12/22/censo-2022-cor-ou-raca-municipios-da-bahia.ghtml)somam 88.2% da população. O estudo visa investigar a representação de mulheres e pessoas negras nas candidaturas a vereança na capital baiana.
+Segundo o IBGE (Censo 2022),  54,4% da população soteropolitana é composta de mulheres. A cidade também concentra a menor proporção de pessoas brancas no Brasil, [pretos e pardos ](https://g1.globo.com/ba/bahia/noticia/2023/12/22/censo-2022-cor-ou-raca-municipios-da-bahia.ghtml)somam 83.2% da população. O estudo visa investigar a representação de mulheres e pessoas negras nas candidaturas a vereança na capital baiana.
 
 # Perguntas a serem respondidas 🔎
 
